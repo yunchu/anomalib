@@ -11,11 +11,9 @@ matplotlib>=3.4.3
 omegaconf>=2.1.1
 opencv-python>=4.5.3.56
 pandas>=1.1.0
-pytorch-lightning>=1.6.0,<1.9.0
+pytorch-lightning>=1.6.0
 timm==0.5.4
 torchmetrics==0.10.3
-torchvision>=0.9.1,<=0.14.1
-torchtext>=0.9.1,<=0.14.1
+torchvision>=0.9.1
+torchtext>=0.9.1
 wandb==0.12.17
-onnx>=1.13.0
-wheel>=0.38.0
