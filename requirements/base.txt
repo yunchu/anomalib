@@ -17,3 +17,5 @@ torchmetrics==0.10.3
 torchvision>=0.9.1,<=0.14.1
 torchtext>=0.9.1,<=0.14.1
 wandb==0.12.17
+onnx>=1.13.0
+wheel>=0.38.0
